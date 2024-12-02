@@ -1,4 +1,4 @@
-
+# data_science_from-scratch
 
 def sum_of_squares(v: list) -> float:
 
